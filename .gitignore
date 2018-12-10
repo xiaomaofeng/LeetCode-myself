@@ -1,0 +1,11 @@
+
+*.db
+algorithm/cpp/Leetcode_xiaomaofeng/.vs/Leetcode_xiaomaofeng/v15/.suo
+*.opendb
+*.ipch
+*.sln
+*.filters
+*.user
+*.vcxproj
+algorithm/cpp/Leetcode_xiaomaofeng/Leetcode_xiaomaofeng/stdafx.cpp
+*.h
