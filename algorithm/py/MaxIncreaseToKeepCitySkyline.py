@@ -1,8 +1,8 @@
 """
 807 Max Increase to Keep City Skyline
-Problem link :https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/
-Author:xiaomaofeng
-Date  :2018-12-13
+Source :https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/
+Author :xiaomaofeng
+Date   :2018-12-13
 
 ----------------------
 
