@@ -9,3 +9,10 @@ algorithm/cpp/Leetcode_xiaomaofeng/.vs/Leetcode_xiaomaofeng/v15/.suo
 *.vcxproj
 algorithm/cpp/Leetcode_xiaomaofeng/Leetcode_xiaomaofeng/stdafx.cpp
 *.h
+*.tlog
+*.ilk
+*.pdb
+*.exe
+*.log
+*.idb
+algorithm/cpp/Leetcode_xiaomaofeng/Leetcode_xiaomaofeng/源.cpp
