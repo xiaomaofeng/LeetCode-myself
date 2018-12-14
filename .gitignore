@@ -16,3 +16,4 @@ algorithm/cpp/Leetcode_xiaomaofeng/Leetcode_xiaomaofeng/stdafx.cpp
 *.log
 *.idb
 algorithm/cpp/Leetcode_xiaomaofeng/Leetcode_xiaomaofeng/源.cpp
+*.obj
