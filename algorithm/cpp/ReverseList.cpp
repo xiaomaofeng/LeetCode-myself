@@ -17,7 +17,7 @@ public:
 		pre = head;
 		head = nxt;
 	}
-	return h;
+	return nxt;
 	}
 
 
