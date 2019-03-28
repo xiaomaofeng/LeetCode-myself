@@ -29,7 +29,7 @@ void quicksort(ElementType x[], int first, int last)
 	int pos;
 	if (first < last)
 	{
-		pos = split(x, first, last, pos);
+		pos = split(x, first, last)
 		quicksort(x, first, pos - 1);
 		quicksort(x, pos + 1, last); 
 	}
